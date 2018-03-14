@@ -6,8 +6,14 @@ import time
 
 class airBnb():
 
-	def test(self):
+    def test(self):
+        baseUrl = 'https://www.airbnb.com'
+        driver = webdriver.Firefox()
+        driver.maximize_window()
+        driver.get(baseUrl)
+        driver.implicitly_wait(10)
 
+        
 
 
 ab = airBnb()
