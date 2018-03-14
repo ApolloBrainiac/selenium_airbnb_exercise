@@ -22,7 +22,28 @@ class airBnb():
         searchButton = driver.find_element(By.XPATH, '//button[@type="submit"]')
 
         searchBar.send_keys("London")
+        pause()
         searchButton.click()
+        pause()
+
+        # Date Selection Steps
+        dateButton = driver.find_element(By.XPATH,
+        	'//span[contains(text(), "Dates"')
+        applyButton = driver.find_element(By.XPATH,
+        	'//span[contains(text(), "Apply"')
+        dateButton.cick()
+        pause()
+
+        date1 = driver.find_element(By.XPATH, '//td[contains(text(), "15"')
+        date2 = driver.find_element(By.XPATH, '//td[contains(text(), "23"')
+
+        date1.click()
+        pause()
+
+        date2.click()
+        pause()
+
+        applyButton.click()
         pause()
 
 
