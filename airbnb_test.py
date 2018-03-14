@@ -28,14 +28,14 @@ class airBnb():
 
         # Date Selection Steps
         dateButton = driver.find_element(By.XPATH,
-        	'//span[contains(text(), "Dates"')
+        	'//span[contains(text(), "Dates"]')
         applyButton = driver.find_element(By.XPATH,
-        	'//span[contains(text(), "Apply"')
+        	'//span[contains(text(), "Apply"]')
         dateButton.cick()
         pause()
 
-        date1 = driver.find_element(By.XPATH, '//td[contains(text(), "15"')
-        date2 = driver.find_element(By.XPATH, '//td[contains(text(), "23"')
+        date1 = driver.find_element(By.XPATH, '//td[contains(text(), "15"]')
+        date2 = driver.find_element(By.XPATH, '//td[contains(text(), "23"]')
 
         date1.click()
         pause()
