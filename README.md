@@ -14,3 +14,5 @@ The automation code should produce the following steps:
 
 ### Further Notes
 The exercise was written for a prior version of the AirBNB website. As such, while it was originally intended for students to use the Select class from Selenium, the updated site rendered the class unnecessary.
+
+Many of the solutions I came up with to address this discrepancy are a little quick and dirty. I plan to revisit this test and re-factor after gaining a better understanding of Selenium with Python.

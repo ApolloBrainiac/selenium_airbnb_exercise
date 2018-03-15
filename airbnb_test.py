@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import Select
 import time
 import random
 
@@ -53,6 +52,36 @@ class airBnb():
         pause()
 
         # Guest Selection Steps
+        guestButton = driver.find_element(By.XPATH,
+                                          '//button[@role="menuitem"]//span[contains(text(), "Guests")]')
+        guestButton.click()
+        pause()
+
+        # XPATHS for Guest Buttons
+        aduButton = driver.find_element(By.XPATH,
+                                        '(//div[@role="menu"]//button[@type="button"])[2]')
+        chiButton = driver.find_element(By.XPATH,
+                                        '(//div[@role="menu"]//button[@type="button"])[4]')
+        infButton = driver.find_element(By.XPATH,
+                                        '(//div[@role="menu"]//button[@type="button"])[6]')
+
+        # Add one guest of each type Adult/Child/Infant
+        aduButton.click()
+        pause()
+        chiButton.click()
+        pause()
+        infButton.click()
+        pause.click()
+
+        # Apply guest selections
+        applyButton = driver.find_element(By.XPATH,
+                                          '//span[contains(text(), "Apply")]')
+        applyButton.click()
+        pause()
+
+        # Closes browser
+        driver.close()
+
 
 ab = airBnb()
 ab.test()
