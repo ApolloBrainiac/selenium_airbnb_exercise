@@ -42,7 +42,7 @@ class airBnb():
         pause()
 
         date2 = driver.find_element(
-            By.XPATH, '(//td[@role="button" and contains(text(), "%s")])[1]' % str(ran2))
+            By.XPATH, '(//td[@role="button" and contains(text(), "%s")])[2]' % str(ran2))
         date2.click()
         pause()
 
@@ -53,7 +53,7 @@ class airBnb():
 
         # Guest Selection Steps
         guestButton = driver.find_element(By.XPATH,
-                                          '//button[@role="menuitem"]//span[contains(text(), "Guests")]')
+                                          '//button[@role="menuitem"]//div[contains(text(), "Guests")]')
         guestButton.click()
         pause()
 
@@ -71,7 +71,7 @@ class airBnb():
         chiButton.click()
         pause()
         infButton.click()
-        pause.click()
+        pause()
 
         # Apply guest selections
         applyButton = driver.find_element(By.XPATH,
