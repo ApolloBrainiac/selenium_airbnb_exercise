@@ -8,13 +8,151 @@ Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\o
 1521068196834	Marionette	INFO	Listening on port 29253
 Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
 1521068197976	Marionette	WARN	TLS certificate errors will be ignored for this session
-1521069149984	geckodriver	INFO	geckodriver 0.19.1
-1521069149992	geckodriver	INFO	Listening on 127.0.0.1:30809
-1521069152606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.RfNXpP9dwGWw"
-Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
-Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17168, Chrome_ChildThread] WAR[Parent 13948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vr\openvrpaths.vrpath
 Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
 1521069155232	Marionette	INFO	Listening on port 30828
 1521069155724	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521126293736	geckodriver	INFO	geckodriver 0.19.1
+1521126293744	geckodriver	INFO	Listening on 127.0.0.1:32019
+1521126295844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.kE6e1er7nwdh"
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521126298500	Marionette	INFO	Listening on port 32031
+1521126298970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521126364432	geckodriver	INFO	geckodriver 0.19.1
+1521126364440	geckodriver	INFO	Listening on 127.0.0.1:32257
+1521126366507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.AgvWteBTOMGM"
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521126368874	Marionette	INFO	Listening on port 32265
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521126369622	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[Child 17108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521126612865	geckodriver	INFO	geckodriver 0.19.1
+1521126612873	geckodriver	INFO	Listening on 127.0.0.1:32802
+1521126614946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.78RcKy96NoUZ"
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521126617466	Marionette	INFO	Listening on port 32814
+1521126618068	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.getContainer(...).editor is undefined
+Full stack: showNode/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/markup.js:1144:30
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:928:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:812:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:748:11
+
+*************************
+console.error: (new TypeError("this.getContainer(...).editor is undefined", "resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/markup.js", 1144))
+1521126884298	geckodriver	INFO	geckodriver 0.19.1
+1521126884305	geckodriver	INFO	Listening on 127.0.0.1:33466
+1521126886365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.K5mg4913E4m1"
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521126888882	Marionette	INFO	Listening on port 33474
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521126889482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521126999487	geckodriver	INFO	geckodriver 0.19.1
+1521126999495	geckodriver	INFO	Listening on 127.0.0.1:33797
+1521127001577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.ycrLVvhTl4IS"
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521127004566	Marionette	INFO	Listening on port 33806
+1521127004718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521127716847	geckodriver	INFO	geckodriver 0.19.1
+1521127716857	geckodriver	INFO	Listening on 127.0.0.1:35323
+1521127718972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.p0yFPsaqxFzm"
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521127722786	Marionette	INFO	Listening on port 35331
+1521127723214	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521127768436	geckodriver	INFO	geckodriver 0.19.1
+1521127768447	geckodriver	INFO	Listening on 127.0.0.1:35523
+1521127770523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.f4Hb85vQYacB"
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521127773524	Marionette	INFO	Listening on port 35535
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521127773826	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521127886262	geckodriver	INFO	geckodriver 0.19.1
+1521127886272	geckodriver	INFO	Listening on 127.0.0.1:35915
+1521127888358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.iiLTqHqdJrtc"
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521127891954	Marionette	INFO	Listening on port 35927
+1521127892386	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17492, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521127995494	geckodriver	INFO	geckodriver 0.19.1
+1521127995507	geckodriver	INFO	Listening on 127.0.0.1:36213
+1521127997590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-profile" "C:\\Users\\THUNDE~1\\AppData\\Local\\Temp\\rust_mozprofile.hTbgeE79d1YE"
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521128000582	Marionette	INFO	Listening on port 36224
+Unable to read VR Path Registry from C:\Users\ThunderBear\AppData\Local\openvr\openvrpaths.vrpath
+1521128000870	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
