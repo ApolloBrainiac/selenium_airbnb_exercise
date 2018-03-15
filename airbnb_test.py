@@ -31,9 +31,6 @@ class airBnb():
         # Date Selection Steps
         dateButton = driver.find_element(By.XPATH,
                                          '//button[@role="menuitem"]//span[contains(text(), "Dates")]')
-        applyButton = driver.find_element(By.XPATH,
-                                          '//span[contains(text(), "Apply")]')
-
         dateButton.click()
         pause()
 
@@ -41,19 +38,21 @@ class airBnb():
         ran2 = random.randint(23, 30)
 
         date1 = driver.find_element(
-            By.XPATH, '//td[contains(text(), "%s"]' % str(ran1))
-        date2 = driver.find_element(
-            By.XPATH, '//td[contains(text(), "%s"]' % str(ran2))
-
+            By.XPATH, '(//td[@role="button" and contains(text(), "%s")])[2]' % str(ran1))
         date1.click()
         pause()
 
+        date2 = driver.find_element(
+            By.XPATH, '(//td[@role="button" and contains(text(), "%s")])[1]' % str(ran2))
         date2.click()
         pause()
 
+        applyButton = driver.find_element(By.XPATH,
+                                          '//span[contains(text(), "Apply")]')
         applyButton.click()
         pause()
 
+        # Guest Selection Steps
 
 ab = airBnb()
 ab.test()
